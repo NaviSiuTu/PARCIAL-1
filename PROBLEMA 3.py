@@ -1,8 +1,8 @@
 def contadorDeVocales(palabra):
-    A , a , E , e , I, i , O, o , U , u = 1
-    conteo = A + a + E + e + I + i + O + o + U + U
-    print (conteo)
+    A = 1
+    a = 1
 
-    if (palabra)
+    
 
 palabra = (input("Escriba una palabra: "))
+print (contadorDeVocales(palabra))
