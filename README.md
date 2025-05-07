@@ -11,5 +11,8 @@ PROBLEMA 2
 
 PROBLEMA 3:
 
+![image](https://github.com/user-attachments/assets/ae26f335-f871-4d8b-8a86-88722e635873)
+
+
 
 
